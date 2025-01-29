@@ -1,8 +1,8 @@
 <h1>Hi there, I'm Gen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p>
-  I'm currently a 3B Computer Science student at University of Waterloo.  
-  I love turning ideas into products and am into hackathons these days.<br/>
+  I'm currently a 3B Computer Science student at University of Waterloo.<br/>
+  I love turning ideas into products and am into hackathons these days.
   So if you have any idea in your head, let's collab and build it together!
   <br/><br/>
   <a href="https://genichiashi.me" target="_blank">
