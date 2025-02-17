@@ -3,7 +3,7 @@
 <p>
   I'm currently a 3B Computer Science student at University of Waterloo.<br/>
   I love turning ideas into products and am into hackathons these days.<br/>
-  So if you have any idea in your head, let's collab and build it together!
+  Any idea in your head? let's collab. and build together!
   <br/><br/>
   <a href="https://genichihashi.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-genichiashi.me-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
