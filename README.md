@@ -1,16 +1,19 @@
+![](https://komarev.com/ghpvc/?username=18gen)
+
 <h1>Hi there, I'm Gen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<p>
-  I'm currently a 3B Computer Science student at University of Waterloo.<br/>
-  I love turning ideas into products and am into hackathons these days.<br/>
-  Any idea in your head? let's collab. and build together!
-  <br/><br/>
+```
+I'm currently a 3B Computer Science student at University of Waterloo.
+I love turning ideas into products and am into hackathons these days.
+Any idea in your head? let's collab. and build together!
+```
+
   <a href="https://genichihashi.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-genichiashi.me-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
   </a>
-</p>
 
-## 🛠 Tech & Tools
+
+## Tech & Tools 🛠
 
 <p>
   <!-- C++ -->
@@ -33,7 +36,7 @@
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-## 🤝 Connect with Me
+## Connect with Me 🤝
 
 <p>
   <a href="mailto:ichihashigen@gmail.com" target="_blank">
