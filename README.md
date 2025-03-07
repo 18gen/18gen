@@ -39,9 +39,6 @@ Any idea in your head? let's collab. and build together!
 ## Connect with Me 🤝
 
 <p>
-  <a href="mailto:ichihashigen@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/gen-ichihashi" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
