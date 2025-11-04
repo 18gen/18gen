@@ -46,12 +46,15 @@ Any idea in your head? let's collab. and build together!
 
 <p>
   <a href="https://linkedin.com/in/gen-ichihashi" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://facebook.com/ichihashigen" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-</p> 
+  <a href="mailto:ichihashigen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=18gen)
