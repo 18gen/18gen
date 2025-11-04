@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=18gen)
-
-<h1>Hi there, I'm Gen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+# Hi there, I'm Gen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ```
 I'm currently a 4A Computer Science student at University of Waterloo.
@@ -54,3 +52,6 @@ Any idea in your head? let's collab. and build together!
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p> 
+
+
+![](https://komarev.com/ghpvc/?username=18gen)
