@@ -6,8 +6,8 @@ I love turning ideas into products and am into hackathons these days.
 Any idea in your head? let's collab. and build together!
 ```
 
-  <a href="https://genichihashi.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-genichiashi.me-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
+  <a href="https://18gen" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-18gen.me-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
   </a>
 
 
