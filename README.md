@@ -3,7 +3,7 @@
 ```
 I'm currently a 4A Computer Science student at University of Waterloo.
 I love turning ideas into products and am into hackathons these days.
-Any idea in your head? let's collab. and build together!
+Any idea in your head? let's collab and build together!
 ```
 
   <a href="https://www.18gen.me/" target="_blank">
